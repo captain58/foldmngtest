@@ -1,0 +1,3 @@
+[submodule "foldtestmodule1"]
+	path = foldtestmodule1
+	url = https://github.com/captain58/foldtestmodule1.git
